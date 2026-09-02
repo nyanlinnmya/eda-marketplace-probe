@@ -1,0 +1,7 @@
+{
+  "name": "eda-probe",
+  "owner": { "name": "AltoTech Global", "email": "nyan@altotech.ai" },
+  "plugins": [
+    { "name": "probe", "source": "./plugins/probe", "description": "Throwaway probe to test adding a private marketplace in claude.ai.", "version": "0.0.1" }
+  ]
+}

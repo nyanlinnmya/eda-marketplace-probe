@@ -1,0 +1,1 @@
+{ "name": "probe", "description": "Throwaway probe plugin; delete after the test.", "version": "0.0.1", "author": { "name": "AltoTech Global" } }
