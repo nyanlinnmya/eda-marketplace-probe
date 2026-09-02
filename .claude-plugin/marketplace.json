@@ -1,7 +1,9 @@
 {
   "name": "eda-probe",
   "owner": { "name": "AltoTech Global", "email": "nyan@altotech.ai" },
+  "metadata": { "description": "Throwaway probe: one plugin in a subfolder, one at the marketplace root." },
   "plugins": [
-    { "name": "probe", "source": "./plugins/probe", "description": "Throwaway probe to test adding a private marketplace in claude.ai.", "version": "0.0.1" }
+    { "name": "probe-subfolder", "source": "./plugins/probe", "description": "Probe plugin living in ./plugins/probe.", "version": "0.0.2" },
+    { "name": "probe-root", "source": "./", "description": "Probe plugin living at the marketplace root, like AltoEDA.", "version": "0.0.2" }
   ]
 }

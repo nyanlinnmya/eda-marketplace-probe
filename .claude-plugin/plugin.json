@@ -1,0 +1,1 @@
+{ "name": "probe-root", "description": "Probe plugin at the marketplace root; delete after the test.", "version": "0.0.2", "author": { "name": "AltoTech Global" } }
